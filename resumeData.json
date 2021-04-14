@@ -1,0 +1,163 @@
+{
+  "main": {
+    "_TODO": "Add description later for hiring purposes...",
+    "name": "Michael Mellon",
+    "occupation": "Full-Stack Developer",
+    "description": " ",
+    "image": "profilepic.jpg",
+    "bio": "I'm always learning and trying to better myself every single day. Currently, my knowledge lies in JS, ReactJS, Google App Script, Python, C#, Java, SQL, and Graphql.",
+    "contactmessage": "I'd love to work with you. Drop me a message:",
+    "email": "michael@michaelmellon.dev",
+    "phone": "224-723-0149",
+    "address": {
+      "street": "",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53213"
+    },
+    "website": "http://www.michaelmellon.dev",
+    "resumedownload": "http://michaelmellon.dev/Mellon_Resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/michaelmellon",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/_michaelmellon_",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michaeljamesmellon",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/michaeljmellon",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "JS, Python, C#, Java, SQL, React, Google App Scripts, and Graphql.",
+    "education": [
+      {
+        "school": "Milwaukee Area Technical College",
+        "degree": "Web and Software Development",
+        "graduated": "May 2018",
+        "description": "MATC gave me an immersive program focused on the fundamentals of developing, while challenging me every step of the way."
+      }
+    ],
+    "work": [
+      {
+        "company": "Kohl's Advertising Photo Studio",
+        "title": "Digital Technician / Studio Software Developer",
+        "years": "October 2018 - Present",
+        "description": "I have a split role at Kohl's. Since my first degree is in Photography, I was hired on as a Digital Tech with the intent to transition into a Software Developer. Currently, I've built two applications for increased productivity: The first is a program to inject custom metadata into vendor supplied photography. The image names are then changed to reflect our naming standards, and sent to our database for future retrieval. The second is a database of props that the studio uses. The database is built with Google Sheets and uses Google App Script to allow assoiates to reserve props."
+      },
+      {
+        "company": "Bon-Ton",
+        "title": "Senior Digital Technician",
+        "years": "October 2013 - August 2018",
+        "description": "Lead digital tech. In charge of photo equipment, studio ligting diagrams and setup, and onboarding of freelance techhs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "GAS",
+        "level": "90%"
+      },
+      {
+        "name": "JS",
+        "level": "80%"
+      },
+
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "C#",
+        "level": "65%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+
+      {
+        "name": "Graphql",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chow Spot",
+        "category": "React JS",
+        "image": "chow-spot.png",
+        "url": "https://michaelmellon.dev/chow-spot",
+        "description": "Utilizing the Foursquare API to load restaurant data to the UI."
+      },
+      {
+        "title": "Click 4 Color",
+        "category": "JS",
+        "image": "clickcolor.png",
+        "url": "https://michaelmellon.dev/clickcolor",
+        "description": "A random color generator in Javascript."
+      },
+
+      {
+        "title": "Dope Beats",
+        "category": "JS",
+        "image": "beats.png",
+        "url": "https://michaelmellon.dev/beats",
+        "description": "A Javascript beat maker."
+      },
+      {
+        "title": "Vendor Supplied App",
+        "category": "Xojo",
+        "image": "vendor.png",
+        "url": "https://docs.google.com/presentation/d/1l-3Fj2zPQO4ChzjskKitadB4gCACfy5u826YX1WUyvA/edit?usp=sharing",
+        "description": "Utilizing Xojo to create an app to record photo metadata."
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tremendous help in setting up new application for project X.",
+        "user": "Myself"
+      },
+      {
+        "text": "Great self-starter. Always punctual and willing to go the extra mile.",
+        "user": "Myself...again"
+      }
+    ]
+  }
+}
